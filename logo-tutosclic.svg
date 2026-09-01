@@ -1,16 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="360" height="80" viewBox="0 0 360 80" role="img" aria-labelledby="title desc">
-  <title id="title">TutosClic</title>
-  <desc id="desc">Logo TutosClic avec monogramme TC et symbole de clic</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="80" viewBox="0 0 410 80" role="img" aria-labelledby="title desc">
+  <title id="title">Tutos Clic</title>
+  <desc id="desc">Logo Tutos Clic inspiré de l’ancien logo, avec monogramme TC, montagnes et sapins</desc>
   <defs>
-    <linearGradient id="badge" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#527e68"/>
-      <stop offset="1" stop-color="#173d2d"/>
-    </linearGradient>
+    <linearGradient id="badge" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0a3025"/><stop offset="1" stop-color="#173f30"/></linearGradient>
+    <linearGradient id="mountain" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#dce8d7"/><stop offset="1" stop-color="#779b82"/></linearGradient>
+    <linearGradient id="word" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#163d2f"/><stop offset="1" stop-color="#6e8e7c"/></linearGradient>
+    <clipPath id="badgeClip"><rect x="4" y="4" width="72" height="72" rx="21"/></clipPath>
   </defs>
-  <rect x="4" y="4" width="72" height="72" rx="21" fill="url(#badge)"/>
-  <circle cx="60" cy="19" r="5" fill="#f1b968"/>
-  <path d="M60 8v5M70 12l-4 4M74 22h-6" fill="none" stroke="#f1b968" stroke-width="3.2" stroke-linecap="round"/>
-  <text x="17" y="54" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="800" letter-spacing="-2">TC</text>
-  <text x="91" y="52" fill="#173d2d" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="800" letter-spacing="-1.5">Tutos</text>
-  <text x="203" y="52" fill="#527e68" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="800" letter-spacing="-1.5">Clic</text>
+  <g clip-path="url(#badgeClip)">
+    <rect x="4" y="4" width="72" height="72" fill="url(#badge)"/>
+    <path d="M-2 62L18 42l13 13 12-18 17 18 10-11 14 18v18H-2z" fill="url(#mountain)"/>
+    <g fill="#143c2e"><path d="M9 71l6-13h-4l6-11 6 11h-4l6 13z"/><path d="M50 73l7-16h-4l7-13 7 13h-4l7 16z"/><path d="M28 77l6-13h-4l6-12 6 12h-4l6 13z"/></g>
+    <text x="13" y="48" fill="#fff" font-family="Arial Black,Arial,Helvetica,sans-serif" font-size="33" font-weight="900" letter-spacing="-3">TC</text>
+  </g>
+  <rect x="4.5" y="4.5" width="71" height="71" rx="20.5" fill="none" stroke="#e7efe9" stroke-width="1"/>
+  <g fill="url(#word)" stroke="#fff" stroke-width=".7" paint-order="stroke" font-family="Arial Black,Arial,Helvetica,sans-serif" font-size="42" font-weight="900" letter-spacing="-1.4">
+    <text x="91" y="53">Tutos</text>
+    <text x="232" y="53">Clic</text>
+  </g>
 </svg>

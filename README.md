@@ -2,7 +2,7 @@
 
 🌐 **Site : https://titanxxx505.github.io/tutosclic/**
 
-**Version actuelle : 0.6**
+**Version actuelle : 0.7**
 
 TutosClic est un site gratuit de tutoriels informatiques accessibles, avec une identité visuelle inspirée des forêts de sapins brumeuses.
 
