@@ -1,0 +1,31 @@
+TECHFACILE — INSTALLATION SUR GITHUB PAGES
+
+1. Dans le dépôt GitHub techfacile, supprimer les anciens fichiers du site qui peuvent interférer :
+   - _config.yml
+   - .pages.yml
+   - anciens dossiers assets, css ou js s'ils existent
+   - ancien index.html
+
+2. Conserver README.md si vous le souhaitez, ou utiliser celui fourni ici.
+
+3. Importer TOUS les fichiers de ce dossier à la racine du dépôt :
+   - .nojekyll
+   - index.html
+   - tutoriel-google-drive.html
+   - tutoriel-mots-de-passe.html
+   - tutoriel-pc-lent.html
+   - README.md
+
+4. Faire Commit changes sur la branche main.
+
+5. Dans Settings > Pages, vérifier :
+   Source : Deploy from a branch
+   Branch : main
+   Folder : /(root)
+
+6. Attendre quelques minutes puis ouvrir :
+   https://titanxxx505.github.io/techfacile/
+
+7. Si l'ancienne version apparaît encore, faire Ctrl + F5 dans le navigateur.
+
+Cette version n'utilise aucun fichier CSS externe et ne dépend pas de Jekyll.
