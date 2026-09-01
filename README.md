@@ -4,6 +4,8 @@ TechFacile est un site de tutoriels informatiques pensé pour rendre l’informa
 
 Le site propose des guides pratiques, expliqués étape par étape, sur des sujets du quotidien : Windows, Internet, bureautique, sécurité numérique et dépannage.
 
+🌐 **Site en ligne :** https://titanxxx505.github.io/techfacile/
+
 ## Objectif du site
 
 L’objectif de TechFacile est d’aider les utilisateurs à comprendre ce qu’ils font sur leur ordinateur, et pas seulement à reproduire des manipulations.
