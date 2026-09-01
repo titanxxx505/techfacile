@@ -1,10 +1,10 @@
-# TechFacile
+# TutosClic
 
-🌐 **Site : https://titanxxx505.github.io/techfacile/**
+🌐 **Site : https://titanxxx505.github.io/tutosclic/**
 
-**Version actuelle : 0.5**
+**Version actuelle : 0.6**
 
-TechFacile est un site gratuit de tutoriels informatiques accessibles, avec une identité visuelle inspirée des forêts de sapins brumeuses.
+TutosClic est un site gratuit de tutoriels informatiques accessibles, avec une identité visuelle inspirée des forêts de sapins brumeuses.
 
 Cette version contient **44 tutoriels** dans **11 thématiques** : Windows, Internet & Cloud, Bureautique, Sécurité, Dépannage, Smartphone, IA & outils, Matériel, macOS, Linux et Visioconférence.
 
@@ -23,4 +23,4 @@ Les 44 tutoriels ont été développés avec des procédures pas à pas, des che
 
 ## Page de contact
 
-La page contact.html prépare un e-mail à destination de TechFacile dans l’application de messagerie du visiteur. Le site ne stocke pas le contenu du formulaire.
+La page contact.html prépare un e-mail à destination de TutosClic dans l’application de messagerie du visiteur. Le site ne stocke pas le contenu du formulaire.

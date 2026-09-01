@@ -1,10 +1,10 @@
-# Activer la newsletter TechFacile (gratuit avec Google Apps Script)
+# Activer la newsletter TutosClic (gratuit avec Google Apps Script)
 
 Le site est prêt côté interface, mais GitHub Pages ne peut pas envoyer d’e-mails tout seul. Le dossier `newsletter-backend` contient le petit service Google Apps Script qui enregistre les abonnés dans Google Sheets et envoie le lien de confirmation.
 
 ## 1. Créer la feuille Google Sheets
 
-1. Créez une nouvelle feuille Google Sheets, par exemple **TechFacile - Newsletter**.
+1. Créez une nouvelle feuille Google Sheets, par exemple **TutosClic - Newsletter**.
 2. Copiez son identifiant dans l’adresse : dans `https://docs.google.com/spreadsheets/d/IDENTIFIANT/edit`, copiez uniquement `IDENTIFIANT`.
 
 ## 2. Créer le script
@@ -36,7 +36,7 @@ Le site est prêt côté interface, mais GitHub Pages ne peut pas envoyer d’e-
 
 1. Ouvrez votre site GitHub Pages.
 2. Inscrivez une adresse e-mail que vous contrôlez et choisissez au moins un thème.
-3. Vérifiez la réception du message **Confirmez votre inscription à TechFacile**.
+3. Vérifiez la réception du message **Confirmez votre inscription à TutosClic**.
 4. Cliquez sur le lien. La ligne correspondante dans Google Sheets doit passer à `CONFIRMED`.
 
 ## Ce qui est enregistré
@@ -61,4 +61,4 @@ Une fois le site publié et la newsletter testée :
 
 Le script lit alors `tutorials.json` sur le site. Lorsqu’un nouveau tutoriel apparaît, il envoie automatiquement un e-mail uniquement aux abonnés **CONFIRMED** qui ont sélectionné le thème correspondant.
 
-Important : quand vous ajoutez plus tard un tutoriel au site, il faut également ajouter son entrée dans `tutorials.json`. Les versions de TechFacile que je génère le font automatiquement.
+Important : quand vous ajoutez plus tard un tutoriel au site, il faut également ajouter son entrée dans `tutorials.json`. Les versions de TutosClic que je génère le font automatiquement.

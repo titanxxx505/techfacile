@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="TutosClic">
+  <defs>
+    <linearGradient id="badge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#527e68"/>
+      <stop offset="1" stop-color="#173d2d"/>
+    </linearGradient>
+  </defs>
+  <rect x="5" y="5" width="118" height="118" rx="34" fill="url(#badge)"/>
+  <circle cx="96" cy="30" r="8" fill="#f1b968"/>
+  <path d="M96 12v9M112 18l-7 7M116 35h-10" fill="none" stroke="#f1b968" stroke-width="6" stroke-linecap="round"/>
+  <text x="22" y="87" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="57" font-weight="800" letter-spacing="-4">TC</text>
+</svg>
