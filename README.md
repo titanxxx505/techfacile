@@ -13,3 +13,8 @@ La page d’accueil inclut une inscription par thèmes avec confirmation par e-m
 ## Publication GitHub Pages
 
 Le site est entièrement statique et contient un fichier `.nojekyll`. Publiez la branche `main` depuis `/ (root)`.
+
+
+## Tutoriels détaillés
+
+Les 32 tutoriels ont été développés avec des procédures pas à pas, des chemins de menus précis, des conseils de dépannage et des liens vers des sources officielles. Les URL externes sont affichées en toutes lettres sur les pages afin que le lecteur puisse vérifier leur destination.
