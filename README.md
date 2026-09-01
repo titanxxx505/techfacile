@@ -1,6 +1,6 @@
 # TechFacile
 
-🌐 **Site : https://titanxxx505.github.io/techfacile/**
+🌐 **Site : [https://titanxxx505.github.io/techfacile/](https://titanxxx505.github.io/techfacile/index.html)**
 
 TechFacile est un site gratuit de tutoriels informatiques accessibles, avec une identité visuelle inspirée des forêts de sapins brumeuses.
 
