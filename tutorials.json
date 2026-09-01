@@ -1,0 +1,322 @@
+[
+  {
+    "slug": "accelerer-pc-windows",
+    "cat": "windows",
+    "title": "Comment accélérer un PC Windows trop lent",
+    "time": "10 min",
+    "summary": "Les vérifications utiles pour retrouver un ordinateur plus réactif sans installer d’outil douteux.",
+    "intro": "Un PC lent n’est pas forcément à remplacer. Commencez par les causes les plus courantes : programmes au démarrage, espace disque, mises à jour et logiciels indésirables.",
+    "tip": "Ne désactivez pas un pilote, un antivirus ou un composant dont vous ne connaissez pas le rôle.",
+    "level": "Débutant"
+  },
+  {
+    "slug": "capture-ecran-windows",
+    "cat": "windows",
+    "title": "Faire une capture d’écran sous Windows 11",
+    "time": "5 min",
+    "summary": "Capturer tout l’écran, une fenêtre ou une zone précise avec les outils intégrés à Windows.",
+    "intro": "Windows intègre plusieurs raccourcis. Le plus pratique pour sélectionner une zone est l’Outil Capture d’écran.",
+    "tip": "Si un raccourci ne réagit pas, recherchez « Outil Capture d’écran » dans le menu Démarrer.",
+    "level": "Débutant"
+  },
+  {
+    "slug": "applications-par-defaut-windows",
+    "cat": "windows",
+    "title": "Choisir les applications par défaut dans Windows",
+    "time": "6 min",
+    "summary": "Définir quel navigateur, lecteur PDF ou logiciel photo doit s’ouvrir automatiquement.",
+    "intro": "Windows permet d’associer un type de fichier ou un protocole à l’application de votre choix.",
+    "tip": "Évitez de modifier toutes les associations d’un coup : changez uniquement celles dont vous avez réellement besoin.",
+    "level": "Débutant"
+  },
+  {
+    "slug": "organiser-fichiers-windows",
+    "cat": "windows",
+    "title": "Organiser ses fichiers et dossiers efficacement",
+    "time": "8 min",
+    "summary": "Une méthode simple pour retrouver plus vite ses documents et éviter les doublons.",
+    "intro": "Une bonne organisation repose davantage sur quelques règles stables que sur un grand nombre de sous-dossiers.",
+    "tip": "Pour les documents datés, commencer le nom par AAAA-MM permet un tri chronologique naturel.",
+    "level": "Débutant"
+  },
+  {
+    "slug": "partager-google-drive",
+    "cat": "internet",
+    "title": "Partager un fichier avec Google Drive",
+    "time": "8 min",
+    "summary": "Comprendre les droits d’accès et partager un lien sans exposer plus de documents que nécessaire.",
+    "intro": "Google Drive permet de partager un fichier avec des personnes précises ou via un lien. Le choix du niveau d’accès est essentiel.",
+    "tip": "Pour un document sensible, privilégiez l’ajout nominatif de personnes plutôt qu’un lien largement accessible.",
+    "level": "Débutant"
+  },
+  {
+    "slug": "envoyer-gros-fichier-email",
+    "cat": "internet",
+    "title": "Envoyer un fichier trop lourd par e-mail",
+    "time": "6 min",
+    "summary": "Utiliser un lien cloud plutôt qu’une pièce jointe trop volumineuse.",
+    "intro": "Les services de messagerie limitent la taille des pièces jointes. La méthode la plus fiable consiste à déposer le fichier dans un espace cloud puis à partager un lien.",
+    "tip": "Pour des données sensibles, évitez les services d’envoi anonymes si vous ne maîtrisez pas leurs conditions de conservation.",
+    "level": "Débutant"
+  },
+  {
+    "slug": "vider-cache-navigateur",
+    "cat": "internet",
+    "title": "Vider le cache de son navigateur sans tout effacer",
+    "time": "7 min",
+    "summary": "Résoudre certains problèmes d’affichage sans supprimer inutilement tous ses mots de passe.",
+    "intro": "Le cache conserve des copies temporaires de fichiers web. Le vider peut corriger une page qui s’affiche mal ou qui semble ne pas se mettre à jour.",
+    "tip": "Commencez toujours par vider le cache uniquement. Supprimer les cookies peut vous déconnecter de nombreux sites.",
+    "level": "Débutant"
+  },
+  {
+    "slug": "synchroniser-favoris-navigateur",
+    "cat": "internet",
+    "title": "Synchroniser ses favoris entre plusieurs ordinateurs",
+    "time": "8 min",
+    "summary": "Retrouver favoris, historique et parfois mots de passe sur plusieurs appareils.",
+    "intro": "Les navigateurs modernes proposent une synchronisation liée à un compte. Elle est pratique, mais il faut sécuriser ce compte.",
+    "tip": "Ne synchronisez pas des données professionnelles sur un compte personnel si votre organisation l’interdit.",
+    "level": "Débutant"
+  },
+  {
+    "slug": "word-vers-pdf",
+    "cat": "bureautique",
+    "title": "Convertir un document Word en PDF",
+    "time": "5 min",
+    "summary": "Créer un PDF propre à partir d’un document Word sans installer de logiciel supplémentaire.",
+    "intro": "Word permet d’exporter directement un document en PDF.",
+    "tip": "Conservez toujours aussi le fichier Word original si vous pensez devoir modifier le document plus tard.",
+    "level": "Débutant"
+  },
+  {
+    "slug": "styles-sommaire-word",
+    "cat": "bureautique",
+    "title": "Créer un sommaire automatique dans Word",
+    "time": "10 min",
+    "summary": "Utiliser les styles de titres pour générer une table des matières qui se met à jour.",
+    "intro": "Le sommaire automatique repose sur les styles Titre 1, Titre 2, etc. Il est beaucoup plus fiable qu’un sommaire tapé manuellement.",
+    "tip": "Utiliser les styles améliore aussi la navigation dans les longs documents et leur accessibilité.",
+    "level": "Débutant"
+  },
+  {
+    "slug": "formules-excel-base",
+    "cat": "bureautique",
+    "title": "Utiliser SOMME et MOYENNE dans Excel",
+    "time": "8 min",
+    "summary": "Deux formules essentielles pour commencer à calculer dans un tableau Excel.",
+    "intro": "Une formule Excel commence par le signe = et peut faire référence à une plage de cellules.",
+    "tip": "Évitez de taper les nombres directement dans la formule si les valeurs existent déjà dans des cellules : utilisez les références.",
+    "level": "Débutant"
+  },
+  {
+    "slug": "figer-ligne-excel",
+    "cat": "bureautique",
+    "title": "Figer une ligne ou une colonne dans Excel",
+    "time": "5 min",
+    "summary": "Garder les en-têtes visibles lorsque vous faites défiler un grand tableau.",
+    "intro": "Le gel des volets facilite la lecture des tableaux longs.",
+    "tip": "Pour annuler, retournez dans Affichage > Figer les volets > Libérer les volets.",
+    "level": "Débutant"
+  },
+  {
+    "slug": "mots-de-passe-securises",
+    "cat": "securite",
+    "title": "Créer des mots de passe vraiment sécurisés",
+    "time": "7 min",
+    "summary": "Protéger ses comptes avec des mots de passe longs, uniques et gérés correctement.",
+    "intro": "La règle la plus importante est de ne pas réutiliser le même mot de passe sur plusieurs services.",
+    "tip": "Ne transmettez jamais un mot de passe par e-mail ou messagerie si un autre moyen d’accès peut être utilisé.",
+    "level": "Débutant"
+  },
+  {
+    "slug": "double-authentification",
+    "cat": "securite",
+    "title": "Activer la double authentification sur ses comptes",
+    "time": "8 min",
+    "summary": "Ajouter une seconde preuve d’identité pour limiter les risques de piratage.",
+    "intro": "La double authentification, aussi appelée 2FA ou MFA, ajoute une étape après le mot de passe.",
+    "tip": "Avant de changer de téléphone, transférez ou sauvegardez vos méthodes d’authentification afin de ne pas perdre l’accès à vos comptes.",
+    "level": "Débutant"
+  },
+  {
+    "slug": "reconnaitre-phishing",
+    "cat": "securite",
+    "title": "Reconnaître un e-mail de phishing",
+    "time": "9 min",
+    "summary": "Repérer les signes d’un message frauduleux avant de cliquer ou de transmettre des informations.",
+    "intro": "Le phishing cherche à vous pousser à agir vite : cliquer, payer, communiquer un mot de passe ou ouvrir une pièce jointe.",
+    "tip": "Un organisme sérieux ne vous demandera normalement pas de communiquer votre mot de passe par e-mail.",
+    "level": "Débutant"
+  },
+  {
+    "slug": "sauvegarde-321",
+    "cat": "securite",
+    "title": "Mettre en place une sauvegarde 3-2-1",
+    "time": "10 min",
+    "summary": "Réduire le risque de perte de données en conservant plusieurs copies indépendantes.",
+    "intro": "Le principe 3-2-1 est une règle de résilience : plusieurs copies, sur plusieurs supports, dont une copie séparée.",
+    "tip": "Programmez une sauvegarde automatique plutôt que de compter uniquement sur votre mémoire.",
+    "level": "Débutant"
+  },
+  {
+    "slug": "ecran-externe-non-detecte",
+    "cat": "depannage",
+    "title": "Que faire si un écran externe n’est plus détecté ?",
+    "time": "12 min",
+    "summary": "Diagnostiquer un problème HDMI, DisplayPort ou USB-C dans le bon ordre.",
+    "intro": "Commencez par distinguer un problème de câble, d’entrée vidéo, de configuration Windows ou de pilote.",
+    "tip": "Un adaptateur USB-C ne transmet l’image que si le port USB-C de l’ordinateur prend en charge la sortie vidéo.",
+    "level": "Débutant"
+  },
+  {
+    "slug": "wifi-ne-fonctionne-plus",
+    "cat": "depannage",
+    "title": "Le Wi-Fi ne fonctionne plus : quoi vérifier ?",
+    "time": "10 min",
+    "summary": "Une méthode de diagnostic avant de réinitialiser tout le réseau.",
+    "intro": "Déterminez d’abord si le problème concerne seulement votre appareil ou toute la connexion Internet.",
+    "tip": "Évitez de réinitialiser tous les paramètres réseau avant d’avoir essayé les étapes simples : cela efface des configurations enregistrées.",
+    "level": "Débutant"
+  },
+  {
+    "slug": "usb-non-reconnue",
+    "cat": "depannage",
+    "title": "Une clé USB n’est pas reconnue : les bons réflexes",
+    "time": "9 min",
+    "summary": "Vérifier le port, le périphérique et Windows sans risquer de perdre les données.",
+    "intro": "Une clé USB absente de l’Explorateur peut être liée au port, à la clé elle-même ou à la gestion des disques.",
+    "tip": "Si la clé contient des données uniques et importantes, évitez les manipulations répétées et privilégiez une récupération professionnelle si nécessaire.",
+    "level": "Débutant"
+  },
+  {
+    "slug": "application-bloquee",
+    "cat": "depannage",
+    "title": "Fermer proprement une application bloquée",
+    "time": "6 min",
+    "summary": "Quitter un logiciel qui ne répond plus puis chercher la cause si le problème revient.",
+    "intro": "Une application peut se figer ponctuellement sans que tout Windows soit en panne.",
+    "tip": "Forcer la fermeture peut faire perdre les modifications non enregistrées.",
+    "level": "Débutant"
+  },
+  {
+    "slug": "transferer-photos-android-pc",
+    "cat": "smartphone",
+    "title": "Transférer ses photos Android vers un PC",
+    "time": "9 min",
+    "summary": "Copier des photos par câble USB sans passer obligatoirement par le cloud.",
+    "intro": "Un câble USB compatible avec le transfert de données permet généralement d’accéder aux photos du téléphone depuis Windows.",
+    "tip": "Tous les câbles USB ne transmettent pas les données : certains câbles ne servent qu’à la charge.",
+    "level": "Débutant"
+  },
+  {
+    "slug": "liberer-espace-android",
+    "cat": "smartphone",
+    "title": "Libérer de l’espace sur un smartphone Android",
+    "time": "8 min",
+    "summary": "Identifier ce qui occupe le stockage avant de supprimer des fichiers importants.",
+    "intro": "Les photos, vidéos, téléchargements et applications inutilisées sont souvent les principaux consommateurs d’espace.",
+    "tip": "Ne supprimez pas au hasard des dossiers système ou des données d’application que vous ne reconnaissez pas.",
+    "level": "Débutant"
+  },
+  {
+    "slug": "partage-connexion-android",
+    "cat": "smartphone",
+    "title": "Partager la connexion Internet de son téléphone",
+    "time": "6 min",
+    "summary": "Transformer temporairement un smartphone Android en point d’accès Wi-Fi.",
+    "intro": "Le partage de connexion utilise le forfait mobile du téléphone pour donner Internet à un autre appareil.",
+    "tip": "En déplacement, désactivez les mises à jour lourdes sur l’ordinateur si votre forfait mobile est limité.",
+    "level": "Débutant"
+  },
+  {
+    "slug": "scanner-document-smartphone",
+    "cat": "smartphone",
+    "title": "Scanner un document avec son smartphone",
+    "time": "7 min",
+    "summary": "Créer un PDF lisible à partir d’une feuille de papier avec son téléphone.",
+    "intro": "Plusieurs applications courantes permettent de détecter les bords d’une feuille et de produire un PDF.",
+    "tip": "Pour un document sensible, vérifiez où l’application enregistre le fichier et qui peut y accéder.",
+    "level": "Débutant"
+  },
+  {
+    "slug": "ecrire-bon-prompt-ia",
+    "cat": "ia",
+    "title": "Écrire un bon prompt pour une IA générative",
+    "time": "8 min",
+    "summary": "Obtenir une réponse plus utile en donnant contexte, objectif, contraintes et format attendu.",
+    "intro": "Un prompt clair n’a pas besoin d’être compliqué. Il doit surtout expliquer ce que vous voulez obtenir et dans quel contexte.",
+    "tip": "Ne fournissez pas de données confidentielles ou personnelles à un outil d’IA sans avoir vérifié les règles applicables dans votre organisation.",
+    "level": "Débutant"
+  },
+  {
+    "slug": "verifier-reponse-ia",
+    "cat": "ia",
+    "title": "Vérifier une réponse produite par une IA",
+    "time": "9 min",
+    "summary": "Éviter de prendre pour vrai un contenu plausible mais incorrect ou inventé.",
+    "intro": "Une IA générative peut produire une réponse fluide tout en se trompant. Les informations importantes doivent être vérifiées.",
+    "tip": "Plus l’enjeu est juridique, financier, médical, professionnel ou de sécurité, plus la vérification doit être rigoureuse.",
+    "level": "Débutant"
+  },
+  {
+    "slug": "resumer-document-ia",
+    "cat": "ia",
+    "title": "Résumer un document avec une IA sans perdre l’essentiel",
+    "time": "10 min",
+    "summary": "Obtenir un résumé utile en demandant une structure et des limites précises.",
+    "intro": "Un bon résumé dépend autant de la consigne que du document fourni.",
+    "tip": "Avant de téléverser un document professionnel, vérifiez qu’il peut être traité par l’outil choisi selon vos règles de confidentialité.",
+    "level": "Débutant"
+  },
+  {
+    "slug": "donnees-confidentielles-ia",
+    "cat": "ia",
+    "title": "Protéger les données confidentielles quand on utilise une IA",
+    "time": "8 min",
+    "summary": "Réduire le risque de divulguer des informations sensibles dans un outil en ligne.",
+    "intro": "Avant de copier du contenu dans un service d’IA, demandez-vous si ces données pourraient être communiquées à un prestataire externe.",
+    "tip": "Une donnée supprimée de votre écran n’est pas forcément effacée immédiatement des systèmes du fournisseur : vérifiez ses règles de conservation.",
+    "level": "Débutant"
+  },
+  {
+    "slug": "choisir-cable-usbc",
+    "cat": "materiel",
+    "title": "Choisir le bon câble USB-C",
+    "time": "8 min",
+    "summary": "Comprendre pourquoi deux câbles USB-C identiques en apparence n’ont pas forcément les mêmes capacités.",
+    "intro": "USB-C décrit la forme du connecteur, pas toutes les fonctions du câble.",
+    "tip": "Un câble qui recharge correctement un téléphone peut être incapable de transporter une image ou des données à haut débit.",
+    "level": "Débutant"
+  },
+  {
+    "slug": "ssd-ou-hdd",
+    "cat": "materiel",
+    "title": "SSD ou disque dur HDD : comprendre la différence",
+    "time": "7 min",
+    "summary": "Savoir ce qui change en vitesse, bruit, résistance et usage.",
+    "intro": "Les SSD et les disques durs mécaniques stockent tous deux des données, mais leur technologie est différente.",
+    "tip": "Quel que soit le support, une panne reste possible : ne conservez jamais une donnée importante sur un seul disque.",
+    "level": "Débutant"
+  },
+  {
+    "slug": "verifier-espace-disque",
+    "cat": "materiel",
+    "title": "Vérifier ce qui occupe l’espace disque sous Windows",
+    "time": "7 min",
+    "summary": "Identifier les catégories volumineuses avant de supprimer des fichiers.",
+    "intro": "Windows peut afficher la répartition du stockage par applications, fichiers temporaires, documents et autres catégories.",
+    "tip": "Gardez une marge d’espace libre afin que Windows et les applications puissent fonctionner et se mettre à jour correctement.",
+    "level": "Débutant"
+  },
+  {
+    "slug": "connecter-bluetooth",
+    "cat": "materiel",
+    "title": "Connecter un casque ou une souris en Bluetooth",
+    "time": "6 min",
+    "summary": "Associer un périphérique Bluetooth à Windows et résoudre les problèmes les plus simples.",
+    "intro": "Le périphérique doit être en mode appairage et suffisamment proche de l’ordinateur.",
+    "tip": "Si le périphérique est déjà connecté à un autre appareil proche, il peut refuser une nouvelle connexion tant que l’ancienne reste active.",
+    "level": "Débutant"
+  }
+]
