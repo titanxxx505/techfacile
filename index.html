@@ -16,8 +16,8 @@ const buttons=[...document.querySelectorAll('.filter')],cards=[...document.query
 function apply(){const q=(input?.value||'').toLowerCase().trim();let count=0;cards.forEach(c=>{const okCat=active==='all'||c.dataset.category===active;const hay=(c.dataset.title+' '+c.innerText).toLowerCase();const ok=okCat&&(!q||hay.includes(q));c.style.display=ok?'flex':'none';if(ok)count++});if(none)none.hidden=count!==0}
 buttons.forEach(b=>b.addEventListener('click',()=>{buttons.forEach(x=>x.classList.remove('active'));b.classList.add('active');active=b.dataset.filter;apply();document.getElementById('tutoriels')?.scrollIntoView({behavior:'smooth'})}));input?.addEventListener('input',apply);
 
-// Newsletter: after deploying the Google Apps Script web app, paste its /exec URL here.
-const NEWSLETTER_ENDPOINT='COLLEZ_ICI_URL_WEB_APP_GOOGLE_APPS_SCRIPT';
+// Newsletter: after deploying the Google Apps Script webT app, paste its /exec URL here.
+const NEWSLETTER_ENDPOINT='https://script.google.com/macros/s/AKfycbwuVx3DU3okkyjqq3HQnHRiO-F-gKdSciN10JSJcoV6wYax_3BfEFV6i9FmLGhirvExrg/exec';
 const form=document.getElementById('newsletterForm'),msg=document.getElementById('newsletterMsg'),frame=document.getElementById('newsletterFrame');
 form?.addEventListener('submit',function(e){
   const themes=[...form.querySelectorAll('input[name="theme"]:checked')].map(x=>x.value);
