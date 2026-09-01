@@ -2,7 +2,7 @@
 
 🌐 **Site : https://titanxxx505.github.io/techfacile/**
 
-**Version actuelle : 0.4**
+**Version actuelle : 0.5**
 
 TechFacile est un site gratuit de tutoriels informatiques accessibles, avec une identité visuelle inspirée des forêts de sapins brumeuses.
 
@@ -20,3 +20,7 @@ Le site est entièrement statique et contient un fichier `.nojekyll`. Publiez la
 ## Tutoriels détaillés
 
 Les 44 tutoriels ont été développés avec des procédures pas à pas, des chemins de menus précis, des conseils de dépannage et des liens vers des sources officielles. Les URL externes sont affichées en toutes lettres sur les pages afin que le lecteur puisse vérifier leur destination.
+
+## Page de contact
+
+La page contact.html prépare un e-mail à destination de TechFacile dans l’application de messagerie du visiteur. Le site ne stocke pas le contenu du formulaire.
