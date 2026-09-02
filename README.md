@@ -2,7 +2,7 @@
 
 🌐 **Site : https://titanxxx505.github.io/tutosclic/**
 
-**Version actuelle : 2.0.0**
+**Version actuelle : 2.1.0**
 
 TutosClic est un site gratuit de tutoriels informatiques accessibles, avec une identité visuelle inspirée des forêts de sapins brumeuses.
 
@@ -35,4 +35,4 @@ La page `assistant.html` propose une sélection en six étapes (type, marque, s�
 
 ## Langues
 
-Un sélecteur Français / English est disponible sur toutes les pages. Le français affiche le site original et English ouvre la traduction anglaise complète du site à la demande.
+Un sélecteur Français / English est intégré au menu de navigation sur toutes les pages. Sur téléphone, le menu s'ouvre avec un bouton à trois barres. Le français affiche le site original et English ouvre la traduction anglaise complète du site à la demande.
