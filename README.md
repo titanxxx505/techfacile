@@ -2,7 +2,7 @@
 
 🌐 **Site : https://titanxxx505.github.io/tutosclic/**
 
-**Version actuelle : 0.8**
+**Version actuelle : 1.0.0**
 
 TutosClic est un site gratuit de tutoriels informatiques accessibles, avec une identité visuelle inspirée des forêts de sapins brumeuses.
 
@@ -28,3 +28,7 @@ La page contact.html prépare un e-mail à destination de TutosClic dans l’app
 ## Catalogue des tutoriels
 
 La page 	utoriels.html réunit les 44 guides avec recherche et filtres. La page d’accueil présente quatre tutoriels mis en avant.
+
+## Aide guidée par appareil
+
+La page `assistant.html` propose une sélection en quatre étapes (appareil, marque, modèle et système), puis affiche les questions et tutoriels les plus utiles pour la configuration choisie.
