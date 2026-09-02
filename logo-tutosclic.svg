@@ -16,6 +16,6 @@
   <rect x="4.5" y="4.5" width="71" height="71" rx="20.5" fill="none" stroke="#e7efe9" stroke-width="1"/>
   <g fill="url(#word)" stroke="#fff" stroke-width=".7" paint-order="stroke" font-family="Arial Black,Arial,Helvetica,sans-serif" font-size="42" font-weight="900" letter-spacing="-1.4">
     <text x="91" y="53">Tutos</text>
-    <text x="232" y="53">Clic</text>
+    <text x="224" y="53">Clic</text>
   </g>
 </svg>
